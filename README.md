@@ -109,20 +109,14 @@ Undergraduate Research
 | 2024.11 | Encouragement Award — Startup Club Competition |
 | 2024.04 | Encouragement Award — ICT Convergence Project Competition |
 
+
 ## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kcwonhae&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=FFFFFF&icon_color=AAAAAA&text_color=CCCCCC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kcwonhae&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400&v=2" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwonhae&layout=compact&theme=github_dark&hide_border=true&title_color=FFFFFF&text_color=CCCCCC" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Chaewon Kim · Sookmyung Women's University</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwonhae&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400&v=2" />
 
 </div>
+
