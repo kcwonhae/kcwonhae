@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:242424&height=210&section=header&text=CHAEWON%20KIM&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineering%20%26%20Embedded%20Systems&descSize=16&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=200&text=CHAEWON%20KIM&fontSize=45&fontColor=FFFFFF&fontAlignY=40&desc=Sookmyung%20Women%27s%20University&descSize=16&descAlignY=65" width="100%" alt="Chaewon Kim"/>
 
 </div>
 
